@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class petugas extends Model
 {
-    //
+    public $guarded = [];
 }

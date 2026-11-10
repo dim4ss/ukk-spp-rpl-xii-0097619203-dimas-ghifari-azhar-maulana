@@ -12,13 +12,12 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('petugas', function (Blueprint $table) {
-            $table->id_petugas()->primary();
+            $table->integer('id_petugas')->primary();
             $table->string('username',30)->nullable();
             $table->string('password',30)->nullable();
             $table->string('nama_petugas',50)->nullable();
             $table->enum('level',['admin','petugas'])->nullable();
-            $table->timestamp('create_at');
-            $table->timestamp('update_at');
+            $table->timestamps();
         });
     }
 

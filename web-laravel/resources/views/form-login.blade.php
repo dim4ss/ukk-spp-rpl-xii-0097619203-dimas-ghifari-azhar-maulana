@@ -29,6 +29,7 @@
         </div>
 
         <form action="#" method="POST">
+        @csrf
             <div class="form-group">
                 <label for="username" class="form-label">Username</label>
                 <input type="text" name="username" id="username" class="form-input" 

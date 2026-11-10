@@ -1,0 +1,1 @@
+CREATE DATABASE db_spp_sekolah_xii;

@@ -3,7 +3,39 @@
   "WorkspaceRootPath": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{601DC37F-A4FA-4F57-BA9C-7A80DC953B8A}|desktop-csharp\\desktop-csharp.csproj|solutionrelative:desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,23 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegisterPetugas.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeToolTip": "desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:31:03.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\Program.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\Program.cs",
+              "RelativeToolTip": "desktop-csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:25:25.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormLogin.cs*",
+              "RelativeToolTip": "desktop-csharp\\views\\FormLogin.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:31:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegisterPetugas.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormRegisterPetugas.cs [Design]",
+              "RelativeToolTip": "desktop-csharp\\views\\FormRegisterPetugas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:29:35.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormLogin.cs [Design]*",
+              "RelativeToolTip": "desktop-csharp\\views\\FormLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:28:48.028Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\views\\FormDashboard.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\views\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "desktop-csharp\\views\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:29:53.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionUser.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\models\\SessionUser.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\models\\SessionUser.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\models\\SessionUser.cs",
+              "RelativeToolTip": "desktop-csharp\\models\\SessionUser.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:25:18.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\config\\Koneksi.cs",
+              "RelativeDocumentMoniker": "desktop-csharp\\config\\Koneksi.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\config\\Koneksi.cs",
+              "RelativeToolTip": "desktop-csharp\\config\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:22:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\Form1.cs",
               "RelativeDocumentMoniker": "desktop-csharp\\Form1.cs",
               "ToolTip": "D:\\ukk-spp-rpl-xii-0097619203-dimas-ghifari-azhar-maulana\\desktop-csharp\\desktop-csharp\\Form1.cs [Design]",
               "RelativeToolTip": "desktop-csharp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T01:37:06.268Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-11-09T01:37:06.268Z"
             }
           ]
         }

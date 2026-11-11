@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace desktop_csharp.models
 {
-    internal class SessionUser
+    public class SessionUser
     {
         public SessionUser(int idPetugas, string username, string namaPetugas, string level, bool isLoggedIn)
         {
@@ -17,32 +17,39 @@ namespace desktop_csharp.models
             IsLoggedIn = isLoggedIn;
         }
 
-        public int IdPetugas { get; set; } 
-        public string Username { get; set; }
-        public string NamaPetugas { get; set; }
-        public string Level { get; set; }
-        public bool IsLoggedIn { get; set; }
+        public static int IdPetugas { get; set; } 
+        public static string Username { get; set; }
+        public static string NamaPetugas { get; set; }
+        public static string Level { get; set; }
+        public static bool IsLoggedIn { get; set; }
 
         
 
-        public void SetSession (int idPetugas, string username, string namaPetugas, string level)
+        public static void SetSession (int idPetugas, string username, string namaPetugas, string level)
         {
-            IdPetugas = idPetugas;
+            IdPetugas = IdPetugas;
             Username = username;
             NamaPetugas = namaPetugas;
-            Level = level;
+            Level = level.ToLower();
+            IsLoggedIn = true;
         }
 
 
         //method untuk menghapus identitas session saat logout.
-        public void ClearSession()
+        public static void ClearSession()
         {
-            ClearSession();
+            IdPetugas = 0;
+            Username = null;
+            NamaPetugas = null;
+            Level = null;
+            IsLoggedIn = false;
         }
 
-        public void IsAdmin()
+        public static void IsAdmin()
         {
             
         }
+
+
     }
 }
